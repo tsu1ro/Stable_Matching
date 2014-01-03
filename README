@@ -1,0 +1,10 @@
+This program find the suitable pair accroding to their preferrence.
+input:
+the number of size
+the preferrence of each
+
+output :
+suitable matching
+
+It produce the output if the input value is proper.
+But make some error if the input include the retundancy. 
